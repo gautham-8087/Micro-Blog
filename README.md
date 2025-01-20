@@ -1,9 +1,9 @@
-# Gautam's Blog Repository  
+# Gautham's Blog Repository  
 
 Welcome to my blog repository! Here, I share insights, tutorials, and experiences related to technology, programming, and my journey as a B.Tech IT student.  
 
 ## 📝 About  
-I am Gautam, a passionate learner and developer with skills in Python, Artificial Intelligence, Data Science, and Machine Learning. My blogs aim to simplify complex topics and share practical knowledge that can benefit students, professionals, and tech enthusiasts.  
+I am Gautham, a passionate learner and developer with skills in Python, Artificial Intelligence, Data Science, and Machine Learning. My blogs aim to simplify complex topics and share practical knowledge that can benefit students, professionals, and tech enthusiasts.  
 
 ## 📂 Blog Categories  
 - **🌐 Web Development**: HTML, CSS, JavaScript tips and tricks.  
@@ -29,7 +29,3 @@ Feel free to reach out or connect with me on my social profiles:
 
 ---
 
-## 🚀 How to Use  
-1. Clone this repository:  
-   ```bash
-   git clone https://github.com/yourusername/blog-repo.git
