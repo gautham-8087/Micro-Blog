@@ -28,4 +28,7 @@ Feel free to reach out or connect with me on my social profiles:
 - **Email**: [agautham2024@gmail.com]  
 
 ---
-
+## 🚀 How to Use  
+1. Clone this repository:  
+   ```bash
+   git clone https://github.com/gautham-8087/blog-repo.git
