@@ -1,0 +1,11 @@
+.footer {
+    background: #1e1e1e; /* Dark footer background */
+    color: #eaeaea; /* Light text */
+    padding: 1rem;
+    text-align: center;
+  }
+  
+  .footer p {
+    margin: 0;
+    font-size: 0.9rem;
+  }

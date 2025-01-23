@@ -1,0 +1,13 @@
+.blog-list {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    margin-top: 2rem;
+    color: #eaeaea; /* Light text */
+  }
+  
+  .blog-list h2 {
+    font-size: 2rem;
+    color: #ffffff; /* Bright white */
+    margin-bottom: 1rem;
+  }
